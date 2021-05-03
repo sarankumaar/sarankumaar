@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarankumaar
 - 👀 I’m interested in python, django and data science.
-- 🌱 I’m currently learning problem solvings and data science.
+- 🌱 I’m currently learning data science and problem solving techniques.
 - 💞️ I’m looking to collaborate on full stack development or data science roll.
 - 📫 Reach me at sarankumarbg@gmail.com
 
